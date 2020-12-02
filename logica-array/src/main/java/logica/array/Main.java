@@ -1,4 +1,3 @@
-
 package logica.array;
 
 import br.com.softblue.commons.io.Console;
